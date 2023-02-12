@@ -1,8 +1,10 @@
-fx_version "adamant"
+fx_version "cerulean"
 game "gta5"
 
 author 'Bag System'
-description 'Bag System For qbus'
+description 'Bag System For QBCore'
+author 'VIT0#7704'
+repo 'GttMone/qb-bags'
 version '1.0'
 
 client_scripts {
@@ -10,5 +12,6 @@ client_scripts {
 }
 
 server_scripts {
+    'config.lua',
     'server/main.lua',
 }
