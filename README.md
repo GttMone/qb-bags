@@ -8,3 +8,5 @@ Add this line to `qb-core/shared/items.lua`:
 ```
 ['bag'] = {['name'] = 'bag', ['label'] = 'Bag', ['weight'] = 5000, ['type'] = 'weapon',	['image'] = 'bag.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Paper Bag To Store Goods'}
 ```
+
+###### Credits: whitewingz2017/qb-bags
